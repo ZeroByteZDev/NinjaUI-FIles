@@ -1,5 +1,5 @@
 sundry:
-  updTime: '2024-07-23T02:39:18Z'
+  updTime: '2024-08-08T22:46:25Z'
   localMachine: 1145141919810
 client.dll:
   classes:
@@ -9720,56 +9720,56 @@ client.dll:
     - 08D2211651483027
     - F3840E9149825043
     - 715BA68534160023
-  dwCSGOInput: 27430448
-  dwEntityList: 26996400
-  dwGameEntitySystem: 28171208
+  dwCSGOInput: 27061472
+  dwEntityList: 26624408
+  dwGameEntitySystem: 27800472
   dwGameEntitySystem_highestEntityIndex: 5392
-  dwGameRules: 27379304
-  dwGlobalVars: 25265720
-  dwGlowManager: 27376976
-  dwLocalPlayerController: 27322792
-  dwLocalPlayerPawn: 25315848
-  dwPlantedC4: 27419048
-  dwPrediction: 25315520
-  dwSensitivity: 27382584
+  dwGameRules: 27007640
+  dwGlobalVars: 24917472
+  dwGlowManager: 27005344
+  dwLocalPlayerController: 26951144
+  dwLocalPlayerPawn: 24966808
+  dwPlantedC4: 27050072
+  dwPrediction: 24966480
+  dwSensitivity: 27010920
   dwSensitivity_sensitivity: 64
-  dwViewAngles: 27451976
-  dwViewMatrix: 27397328
-  dwViewRender: 27399272
-  dwWeaponC4: 27011392
-  attack: 25284960
-  attack2: 25285104
-  back: 25285680
-  duck: 25286400
-  forward: 25285536
-  jump: 25286256
-  left: 25285824
-  lookatweapon: 27430224
-  reload: 25284816
-  right: 25285968
-  showscores: 27429936
-  sprint: 25284672
-  turnleft: 25285248
-  turnright: 25285392
-  use: 25286112
-  zoom: 27430080
+  dwViewAngles: 27083000
+  dwViewMatrix: 27026000
+  dwViewRender: 27027968
+  dwWeaponC4: 26640960
+  attack: 24936144
+  attack2: 24936288
+  back: 24936864
+  duck: 24937584
+  forward: 24936720
+  jump: 24937440
+  left: 24937008
+  lookatweapon: 27061248
+  reload: 24936000
+  right: 24937152
+  showscores: 27060960
+  sprint: 24935856
+  turnleft: 24936432
+  turnright: 24936576
+  use: 24937296
+  zoom: 27061104
 engine2.dll:
-  dwBuildNumber: 5437492
-  dwNetworkGameClient: 5434272
+  dwBuildNumber: 5433332
+  dwNetworkGameClient: 5430152
   dwNetworkGameClient_clientTickCount: 376
-  dwNetworkGameClient_deltaTick: 632
+  dwNetworkGameClient_deltaTick: 636
   dwNetworkGameClient_isBackgroundMap: 2626679
   dwNetworkGameClient_localPlayer: 240
   dwNetworkGameClient_maxClients: 624
   dwNetworkGameClient_serverTickCount: 372
   dwNetworkGameClient_signOnState: 608
-  dwWindowHeight: 6226980
-  dwWindowWidth: 6226976
+  dwWindowHeight: 6221788
+  dwWindowWidth: 6221784
 inputsystem.dll:
   dwInputSystem: 231408
 matchmaking.dll:
-  dwGameTypes: 1720768
+  dwGameTypes: 1720736
   dwGameTypes_mapName: 288
 soundsystem.dll:
-  dwSoundSystem: 3362368
+  dwSoundSystem: 3362352
   dwSoundSystem_engineViewData: 124
